@@ -35,7 +35,7 @@ function draw() {
   background(255);
 
   // Draw the video
-  image(video, 300 , 0 , 100, 100);
+  image(video, 300 , 0 , 250, 250);
 
   // STEP 4: Draw the label
   textSize(32);
