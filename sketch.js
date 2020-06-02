@@ -46,7 +46,7 @@ function draw() {
   // Pick an emoji, the "default" is train
   let emoji = "";
   if (label == "Hi! Bavishya") {
-    emoji = "Wish You Many More Happy Returns Of The Day";
+    emoji = "Wish You Many More Happy \n Returns Of The Day";
   } else if (label == "Hi! Vineeth") {
     emoji = "Today Not Your Birthday.\n Have A Nice Day";
   } else if (label == "Hi! Ganesh") {
