@@ -40,7 +40,7 @@ function draw() {
   // STEP 4: Draw the label
   textSize(32);
   textAlign(CENTER);
-  fill(0);
+  fill(255);
   text(label, width / 2, height / 2);
 
   // Pick an emoji, the "default" is train
